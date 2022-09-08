@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "953330304812",
+    "firebase_url": "https://taxinetrider-ed7ba.firebaseio.com",
+    "project_id": "taxinetrider-ed7ba",
+    "storage_bucket": "taxinetrider-ed7ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:953330304812:android:15e5de3b215b23134fce89",
+        "android_client_info": {
+          "package_name": "co.webnexs.taxinetrider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "953330304812-lg155onmgq42tl7vabfrmola5fi81elv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgANCxNx3w9Ng3FzKJPEgJi0YA55_lFTA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "953330304812-lg155onmgq42tl7vabfrmola5fi81elv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
